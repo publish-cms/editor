@@ -1,3 +1,11 @@
+## v1.0.3
+
+### Added or Changed
+
+- Optimize Icon
+
+### Removed
+
 ## v1.0.2
 
 ### Added or Changed
