@@ -1,6 +1,6 @@
 {
   "name": "@publish-cms/editor",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "fork ckeditor by publish cms",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
