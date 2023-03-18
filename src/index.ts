@@ -1,3 +1,4 @@
+import { IRephraseLibraryConfig } from 'rephraseLibrary.js';
 import Editor from './build/editor.js';
 import {
   IMediaLibraryConfig,
@@ -59,7 +60,8 @@ type Toolbar =
   | 'findAndReplace'
   | 'selectAll'
   | 'sourceEditing'
-  | 'mediaLibrary';
+  | 'mediaLibrary'
+  | 'rephraseLibrary';
 
 interface IToolbar {
   items?: Toolbar[];
@@ -228,6 +230,7 @@ interface EditorOptions {
   };
   removePlugins?: string[];
   mediaLibrary?: IMediaLibraryConfig;
+  rephraseLibrary?: IRephraseLibraryConfig;
 }
 
 interface LinkDecorator {
