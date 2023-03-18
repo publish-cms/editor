@@ -1,3 +1,12 @@
+## v1.0.6
+
+### Added or Changed
+
+- Add video tag support
+- Add rephrase library
+
+### Removed
+
 ## v1.0.3
 
 ### Added or Changed

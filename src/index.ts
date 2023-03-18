@@ -1,4 +1,3 @@
-import { IRephraseLibraryConfig } from 'rephraseLibrary.js';
 import Editor from './build/editor.js';
 import {
   IMediaLibraryConfig,
@@ -6,6 +5,7 @@ import {
   mediaLibraryOnClose,
   mediaLibraryChooseImage,
 } from './mediaLibrary';
+import { IRephraseLibraryConfig } from 'rephraseLibrary.js';
 
 interface Editor {
   create: (el: HTMLElement, options: EditorOptions) => Promise<EditorInstance>;
