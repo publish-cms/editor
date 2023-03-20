@@ -1,3 +1,11 @@
+## v1.0.7
+
+### Added or Changed
+
+- Add config activeElements for rephrase library
+
+### Removed
+
 ## v1.0.6
 
 ### Added or Changed
