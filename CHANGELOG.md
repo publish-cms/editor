@@ -1,3 +1,11 @@
+## v1.0.8
+
+### Added or Changed
+
+- Fix get parent style list
+
+### Removed
+
 ## v1.0.7
 
 ### Added or Changed
